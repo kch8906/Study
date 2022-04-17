@@ -1,0 +1,26 @@
+Epoch 1/5
+
+
+
+1875/1875 [==============================] - 8s 4ms/step - loss: 0.7757 - accuracy: 0.7366 - val_loss: 0.5077 - val_accuracy: 0.8216 - _timestamp: 1650102560.0000 - _runtime: 15.0000
+Epoch 2/5
+
+
+
+1875/1875 [==============================] - 8s 4ms/step - loss: 0.5410 - accuracy: 0.8108 - val_loss: 0.4516 - val_accuracy: 0.8361 - _timestamp: 1650102569.0000 - _runtime: 24.0000
+Epoch 3/5
+
+
+
+1875/1875 [==============================] - 9s 5ms/step - loss: 0.4968 - accuracy: 0.8246 - val_loss: 0.4323 - val_accuracy: 0.8426 - _timestamp: 1650102577.0000 - _runtime: 32.0000
+Epoch 4/5
+
+
+
+1875/1875 [==============================] - 8s 4ms/step - loss: 0.4727 - accuracy: 0.8322 - val_loss: 0.4159 - val_accuracy: 0.8506 - _timestamp: 1650102585.0000 - _runtime: 40.0000
+Epoch 5/5
+
+
+
+
+1875/1875 [==============================] - 8s 4ms/step - loss: 0.4570 - accuracy: 0.8382 - val_loss: 0.4069 - val_accuracy: 0.8513 - _timestamp: 1650102594.0000 - _runtime: 49.0000

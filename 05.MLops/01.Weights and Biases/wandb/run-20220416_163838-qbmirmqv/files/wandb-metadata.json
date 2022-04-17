@@ -1,0 +1,26 @@
+{
+    "os": "Windows-10-10.0.19044-SP0",
+    "python": "3.8.13",
+    "heartbeatAt": "2022-04-16T07:38:44.198382",
+    "startedAt": "2022-04-16T07:38:38.742820",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 2060",
+    "gpu_count": 1,
+    "cpu_count": 6,
+    "cuda": null,
+    "args": [
+        "-f",
+        "C:\\Users\\Changhyun\\AppData\\Roaming\\jupyter\\runtime\\kernel-1d2ea406-07c6-4182-9e98-3f9caf071d61.json"
+    ],
+    "state": "running",
+    "program": "Desktop/Study/05. MLops/01.Weights and Biases/02.W&B Sweeps.ipynb",
+    "root": "C:/Users/Changhyun/Desktop/Study",
+    "git": {
+        "remote": "https://github.com/kch8906/Study.git",
+        "commit": "421fc23ef63e0ef1c00bc38372a977567e8503aa"
+    },
+    "email": "kch8906@naver.com",
+    "host": "DESKTOP-GEVM82H",
+    "username": "Changhyun",
+    "executable": "C:\\Users\\Changhyun\\anaconda3\\envs\\machine_TF2\\python.exe"
+}

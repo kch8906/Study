@@ -1,0 +1,25 @@
+Epoch 1/5
+   6/1875 [..............................] - ETA: 20s - loss: 2.1773 - accuracy: 0.2083 WARNING:tensorflow:Callback method `on_train_batch_end` is slow compared to the batch time (batch time: 0.0024s vs `on_train_batch_end` time: 0.0095s). Check your callbacks.
+
+
+
+1875/1875 [==============================] - 8s 4ms/step - loss: 0.5686 - accuracy: 0.7996 - val_loss: 0.4370 - val_accuracy: 0.8439 - _timestamp: 1650097799.0000 - _runtime: 14.0000
+Epoch 2/5
+
+
+1875/1875 [==============================] - 7s 4ms/step - loss: 0.4279 - accuracy: 0.8455 - val_loss: 0.3994 - val_accuracy: 0.8547 - _timestamp: 1650097806.0000 - _runtime: 21.0000
+Epoch 3/5
+
+
+
+1875/1875 [==============================] - 7s 4ms/step - loss: 0.3988 - accuracy: 0.8545 - val_loss: 0.3851 - val_accuracy: 0.8615 - _timestamp: 1650097812.0000 - _runtime: 27.0000
+Epoch 4/5
+
+
+1875/1875 [==============================] - 7s 4ms/step - loss: 0.3756 - accuracy: 0.8626 - val_loss: 0.3913 - val_accuracy: 0.8595 - _timestamp: 1650097820.0000 - _runtime: 35.0000
+Epoch 5/5
+
+
+
+
+1875/1875 [==============================] - 7s 4ms/step - loss: 0.3653 - accuracy: 0.8666 - val_loss: 0.3716 - val_accuracy: 0.8647 - _timestamp: 1650097827.0000 - _runtime: 42.0000

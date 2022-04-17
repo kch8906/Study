@@ -1,0 +1,4 @@
+wandb_version: 1
+
+layers:
+  value: 256
