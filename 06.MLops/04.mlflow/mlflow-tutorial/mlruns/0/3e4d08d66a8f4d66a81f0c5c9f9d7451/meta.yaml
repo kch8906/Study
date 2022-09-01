@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/3e4d08d66a8f4d66a81f0c5c9f9d7451/artifacts
+end_time: 1662026237471
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 3e4d08d66a8f4d66a81f0c5c9f9d7451
+run_uuid: 3e4d08d66a8f4d66a81f0c5c9f9d7451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1662026235194
+status: 3
+tags: []
+user_id: crysis
