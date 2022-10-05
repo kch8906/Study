@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/home/changhyun/workspace/Study/06.MLops/03.Kubernetes/k8s","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
